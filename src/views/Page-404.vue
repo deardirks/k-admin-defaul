@@ -6,6 +6,6 @@
 
 <script>
 export default {
-  name: "404"
+  name: "Page-404"
 };
 </script>
